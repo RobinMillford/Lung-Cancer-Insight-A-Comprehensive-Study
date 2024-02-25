@@ -17,7 +17,7 @@ This project aims to analyze a dataset containing information about individuals,
 ### Data Visualization:
 
 To visually represent our findings, we used Power BI, a powerful data visualization tool. In Power BI, we created several interactive visualizations:
-![Alt Text](https://github.com/RobinMillford/Projects-Sql/blob/main/Lung%20Cancer%20Insight%20A%20Comprehensive%20Study/Lung%20cancer%20Insight.png)
+![Alt Text](https://github.com/RobinMillford/Lung-Cancer-Insight-A-Comprehensive-Study/blob/main/Lung%20cancer%20Insight.png)
 
 
 - **Bar Charts**: Bar charts were employed to illustrate the count of people with lung cancer in each smoking and alcohol consumption category.
